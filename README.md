@@ -2,17 +2,21 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="140" src="https://64.media.tumblr.com/66450155aebf68808da472df0c73d347/5edac533a0e1dc8c-5e/s540x810/d264d6e71ac0896c558968ed1ffe67ffaac505d9.gif"  />
+<table style="border:0; border-collapse:collapse;">
+  <tr>
+    <td style="border:0; padding:0;" width="150">
+      <img height="140" src="https://64.media.tumblr.com/66450155aebf68808da472df0c73d347/5edac533a0e1dc8c-5e/s540x810/d264d6e71ac0896c558968ed1ffe67ffaac505d9.gif" />
+    </td>
+    <td style="border:0; padding:0;">
+      <p>
+        Hi there!<br><br>
+        My name is Raymond and I'm currently an undergraduate student at Northwestern University studying computer science with a focus on AI and machine learning.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
-
-<p align="left">Hi there!<br><br>My name is Raymond and I'm currently an undergraduate student at Northwestern University studying computer science with a focus on AI and machine learning.</p>
-
-###
-
-<br clear="both">
 
 <h3 align="left">Programming Languages</h3>
 
