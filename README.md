@@ -11,7 +11,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"
        width="20" height="140" align="left" alt="" />
   
-  Hi there!<br><br>
+  <br>Hi there!<br><br>
   My name is Raymond and I’m currently an undergraduate student at Northwestern University studying Computer Science with a focus on AI and Machine Learning.<br clear="both">
 </div>
 
