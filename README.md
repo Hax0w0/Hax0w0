@@ -42,7 +42,7 @@
 
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="35" align="left" alt="pandas logo" />
 
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" align="left" alt="numpy logo" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="35" align="left" alt="numpy logo" />
   
 </div>
 
