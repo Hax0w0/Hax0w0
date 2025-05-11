@@ -1,20 +1,19 @@
-<h2 align="left">Welcome To My GitHub Profile 👋🏻</h2>
+<h2 align="left">
+  Welcome To My GitHub Profile 👋🏻
+</h2>
 
 ###
 
-<table style="border:0; border-collapse:collapse;">
-  <tr>
-    <td style="border:0; padding:0;" width="150">
-      <img height="140" src="https://64.media.tumblr.com/66450155aebf68808da472df0c73d347/5edac533a0e1dc8c-5e/s540x810/d264d6e71ac0896c558968ed1ffe67ffaac505d9.gif" />
-    </td>
-    <td style="border:0; padding:0;">
-      <p>
-        Hi there!<br><br>
-        My name is Raymond and I'm currently an undergraduate student at Northwestern University studying computer science with a focus on AI and machine learning.
-      </p>
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://64.media.tumblr.com/66450155aebf68808da472df0c73d347/5edac533a0e1dc8c-5e/s540x810/d264d6e71ac0896c558968ed1ffe67ffaac505d9.gif"
+       width="140" height="140" align="left" alt="Welcome gif" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"
+       width="20" height="140" align="left" alt="" />
+  
+  Hi there!<br><br>
+  My name is Raymond and I’m currently an undergraduate student at Northwestern University studying Computer Science with a focus on AI and Machine Learning.<br clear="both">
+</div>
 
 ###
 
