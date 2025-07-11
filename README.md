@@ -11,7 +11,7 @@
        width="140" height="140" align="left" alt="Turtle GIF" style="margin-right: 20px"/>
 
   <!-- Description --->
-  <br>Hi there!<br><br>
+  Hi there!<br><br>
   My name is Raymond and I’m currently an undergraduate student at Northwestern University studying Computer Science with a focus on AI and Machine Learning.<br clear="both">
   
 </div>
