@@ -12,7 +12,7 @@
 
   <!-- Blank Space --->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"
-       width="20" height="140" align="left" alt="Blank" />
+       width="40" height="140" align="left" alt="Blank" />
 
   <!-- Description --->
   <br>Hi there!<br><br>
