@@ -8,7 +8,7 @@
 
   <!-- Turtle GIF --->
   <img src="https://64.media.tumblr.com/66450155aebf68808da472df0c73d347/5edac533a0e1dc8c-5e/s540x810/d264d6e71ac0896c558968ed1ffe67ffaac505d9.gif"
-       width="140" height="140" align="left" alt="Turtle GIF" style="margin:16px;"/>
+       width="140" height="140" align="left" alt="Turtle GIF" GIF" style="margin-right: 20px;/>
 
   <!-- Description --->
   <br>Hi there!<br><br>
